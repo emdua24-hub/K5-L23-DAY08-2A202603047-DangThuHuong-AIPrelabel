@@ -5,7 +5,7 @@
 - Lớp (L2 / L3 / khác): L2
 - Tài khoản GitHub: emdua24-hub
 - Repo bài nộp (URL): https://github.com/emdua24-hub/K5-L23-DAY08-2A202603047-DangThuHuong-AIPrelabel
-- Commit chốt bài (hash): <<>>
+- Commit chốt bài (hash): 6a5bc12
 - Máy: Windows 11, GPU NVIDIA GeForce GTX 1650 (CUDA 12.6, torch 2.14.1+cu126)
 - CVAT (Docker): v2.74.1
 
