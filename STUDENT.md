@@ -2,7 +2,7 @@
 
 - Họ và tên: Đặng Thu Hương
 - MSHV: 2A202603047
-- Lớp (L2 / L3 / khác): <<>>
+- Lớp (L2 / L3 / khác): L2
 - Tài khoản GitHub: emdua24-hub
 - Repo bài nộp (URL): https://github.com/emdua24-hub/K5-L23-DAY08-2A202603047-DangThuHuong-AIPrelabel
 - Commit chốt bài (hash): <<>>
@@ -16,4 +16,4 @@
 - Bắt bẫy: 8/12 = 66.7%
 - Thời gian: gán tay 5.0 phút/ảnh (20 phút / 4 ảnh); duyệt có pre-label ≈ 1.7 phút/ảnh (40 phút / 24 ảnh)
 - Lỗi QC: 50.0% theo ảnh (4/8), 4.6% theo đối tượng (7/152)
-- **Quyết định:** Rework — lý do một dòng: <<...>>
+- **Quyết định:** Rework — lý do một dòng: Rework do cần rà soát và chuẩn hóa bounding box, loại bỏ nhãn trùng, sửa nhãn sai lớp và xác minh các đối tượng nhỏ hoặc bị khuất để đảm bảo độ chính xác của dataset.
