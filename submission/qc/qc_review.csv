@@ -1,0 +1,25 @@
+﻿image,object_id,error_type,reviewer,note
+img_003.jpg,10,khong,DangThuHuong,Box person bao dung nguoi lai xe; khong trung voi doi tuong person khac.
+img_003.jpg,23,thua,DangThuHuong,"Trung voi ID 10, cung mot nguoi lai xe may; xoa box trung."
+img_006.jpg,73,thua,DangThuHuong,Box trung vung xe may o giua voi ID 78 va ID 93; khong phai mot xe rieng.
+img_006.jpg,78,thua,DangThuHuong,Box trung vung xe may o giua voi ID 73 va ID 93; khong phai mot xe rieng.
+img_006.jpg,93,khong,DangThuHuong,Giu mot box cho xe may mau toi o giua cum xe; cac box 73 va 78 la box trung.
+img_013.jpg,134,sai_lop,DangThuHuong,"Vung box nam tren phuong tien cong cong mau xanh o nen sau, khong phai car."
+img_013.jpg,137,thua,DangThuHuong,Box chong len cung xe may do-trang duoc bao phu boi ID 142; giu box ID 142.
+img_013.jpg,141,thua,DangThuHuong,"Box hep nam tren cung xe buyt xanh o nen sau, da duoc box ID 144 bao phu."
+img_013.jpg,142,khong,DangThuHuong,Box bao doi tuong xe may do-trang phia sau tuk-tuk; giu box nay.
+img_013.jpg,144,khong,DangThuHuong,"Box bus xanh o nen sau, dung lop bus."
+img_013.jpg,145,khong,DangThuHuong,"Box bao xe van mau trang, dung lop car."
+img_014.jpg,149,khong,DangThuHuong,Xe may mau do o tien canh ben phai; box dung doi tuong.
+img_014.jpg,154,khong,DangThuHuong,Xe may nho o giua hau canh; la doi tuong rieng.
+img_014.jpg,157,khong,DangThuHuong,Xe may mau den o tien canh; khac voi xe may ID 159.
+img_014.jpg,159,khong,DangThuHuong,Xe may phia sau co vai phu mau xanh/do; la doi tuong rieng voi ID 157.
+img_017.jpg,166,khong,DangThuHuong,Nguoi dan ong di bo; lop person dung.
+img_017.jpg,170,khong,DangThuHuong,"Nguoi phu nu di bo; lop person dung, khong trung ID 166."
+img_022.jpg,293,sai_lop,DangThuHuong,"Vung box o mep phai la doi tuong nhoe dang di chuyen, khong phai person ro rang."
+img_022.jpg,294,khong,DangThuHuong,"Doi tuong phuong tien rat nho o mep trai; box nam tren doi tuong, giu theo nhan three_wheeler."
+img_023.jpg,308,khong,DangThuHuong,"Phan xe car bi cat boi mep tren anh; box cham mep anh va bao phan doi tuong con hien thi, giu."
+img_035.jpg,583,khong,DangThuHuong,Xe ba banh/xe day ba banh o giua anh; lop three_wheeler phu hop.
+img_035.jpg,587,khong,DangThuHuong,Phan xe may bi cat tai mep phai-duoi anh; box bao phan con nhin thay.
+img_035.jpg,594,khong,DangThuHuong,Doi tuong xe dap nho o hau canh; box nho theo kich thuoc doi tuong.
+img_035.jpg,596,khong,DangThuHuong,Phan xe may bi cat tai mep phai anh; box bao phan con nhin thay.
